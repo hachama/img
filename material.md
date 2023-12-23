@@ -11,15 +11,15 @@ key: page-about
 |   1     | Introduction                                   | [Slides 1](slides#pde)   |            |                      |                                                            |
 |=========+================================================+==========================+============+======================+============================================================|
 |:-------:|:----------------------------------------------:|:------------------------:|:----------:|:--------------------:|:----------------------------------------------------------:|
-|  2      | PDEs for Image restoration (1/4)               | [Slides 2](slides#pde1_2)|      -     |  [TD 1](td/TD1.pdf)  |   [![Lecture 1](lect/lect1.png)](youtu.be/P0OFsGGyGic)     |    
+|  2      | PDEs for Image restoration (1/4)               | [Slides 2](slides#pde1_2)|      -     |  [TD 1](td/TD1.pdf)  |   [![Lecture 1](lect/lect1.png)](www.youtu.be/P0OFsGGyGic)     |    
 |:-------:|:----------------------------------------------:|:------------------------:|:----------:|:--------------------:|:----------------------------------------------------------:|
-|  3      | PDEs for Image restoration (2/4)               | [Slides 2](slides#pde1_2)|      -     |                      |   [![Lecture 2](lect/lect2.png)](youtu.be/ho2bTLiGmtc)     |    
+|  3      | PDEs for Image restoration (2/4)               | [Slides 2](slides#pde1_2)|      -     |                      |   [![Lecture 2](lect/lect2.png)](www.youtu.be/ho2bTLiGmtc)     |    
 |:-------:|:----------------------------------------------:|:------------------------:|:----------:|:--------------------:|:----------------------------------------------------------:|
-|  4      | PDEs for Image restoration (3/4)  Part A       | [Slides 3](slides#pde1_2)|      -     |           -          | [![Lecture 3_1](lect/lect3_1.png)](youtube.com/kcx62MLB28Q)|    
+|  4      | PDEs for Image restoration (3/4)  Part A       | [Slides 3](slides#pde1_2)|      -     |           -          | [![Lecture 3_1](lect/lect3_1.png)](www.youtube.com/kcx62MLB28Q)|    
 |:-------:|:----------------------------------------------:|:------------------------:|:----------:|:--------------------:|:----------------------------------------------------------:|
-|         | PDEs for Image restoration (3/4)  Part B       | [Slides 3](slides#pde1_2)|      -     |           -          | [![Lecture 3_2](lect/lect3_2.png)](youtube.com/327FhLrdJvE)|    
+|         | PDEs for Image restoration (3/4)  Part B       | [Slides 3](slides#pde1_2)|      -     |           -          | [![Lecture 3_2](lect/lect3_2.png)](www.youtube.com/327FhLrdJvE)|    
 |:-------:|:----------------------------------------------:|:------------------------:|:----------:|:--------------------:|:----------------------------------------------------------:|
-|  5      | PDEs for Image restoration (4/4)               | [Slides 2](slides#pde1_2)|      -     |                      |   [![Lecture 2](lect/lect.png)](youtu.be/)     | 
+|  5      | PDEs for Image restoration (4/4)               | [Slides 2](slides#pde1_2)|      -     |                      |   [![Lecture 2](lect/lect.png)](www.youtu.be/)     | 
 |=========+================================================+==========================+============+============+======================================================================|
 
 <!-- 
