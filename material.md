@@ -19,9 +19,9 @@ key: page-about
 |:-------:|:----------------------------------------------:|:------------------------:|:----------:|:--------------------:|:----------------------------------------------------------:|
 |         | PDEs for Image restoration (3/4)  Part B       | [Slides 3](slides#pde1_2)|      -     |           -          | [![Lecture 3_2](lect/lect3_2.png)](https://youtu.be/327FhLrdJvE)|    
 |:-------:|:----------------------------------------------:|:------------------------:|:----------:|:--------------------:|:----------------------------------------------------------:|
-|  5      | PDEs for Image Inpainting  (4/4) Part A        | [Slides 3](slides#pde1_2)|      -     |           -          | [![Lecture 3_1](lect/lect3_1.png)](https://youtu.be/FYZ6BppEBW8)|    
+|  5      | PDEs for Image Inpainting  (4/4) Part A        | [Slides 3](slides#pde1_2)|      -     |           -          | [![Lecture 3_1](lect/inpaint1.png)](https://youtu.be/FYZ6BppEBW8)|    
 |:-------:|:----------------------------------------------:|:------------------------:|:----------:|:--------------------:|:----------------------------------------------------------:|
-|         | PDEs for Image restoration (4/4) Part B        | [Slides 3](slides#pde1_2)|      -     |           -          | [![Lecture 3_2](lect/lect3_2.png)](https://youtu.be/5ZTWRhGJSsw)|    
+|         | PDEs for Image restoration (4/4) Part B        | [Slides 3](slides#pde1_2)|      -     |           -          | [![Lecture 3_2](lect/inpaint2.png)](https://youtu.be/5ZTWRhGJSsw)|    
 |=========+================================================+==========================+============+============+======================================================================|
 
 
